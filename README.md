@@ -6,8 +6,11 @@ Conducted project understanding, data cleaning and modelling, data visualization
 Tasks - 
 
 Project Understanding
+
 Data Cleaning & Modeling
-Data Visualization & Storytelling
+
+Data Visualization & Storyteling
+
 Present to the Client
 
 
