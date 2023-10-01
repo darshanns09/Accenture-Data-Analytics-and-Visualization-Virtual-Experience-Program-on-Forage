@@ -5,12 +5,12 @@ Conducted project understanding, data cleaning and modelling, data visualization
 
 Tasks Completed - 
 
-Project Understanding
+1. Project Understanding
 
-Data Cleaning & Modeling
+2. Data Cleaning & Modeling
 
-Data Visualization & Storyteling
+3. Data Visualization & Storyteling
 
-Present to the Client
+4. Present to the Client
 
 
